@@ -1,0 +1,10 @@
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\bin\Debug\Agenzia immobiliare.exe.config
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\bin\Debug\Agenzia immobiliare.exe
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\bin\Debug\Agenzia immobiliare.pdb
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia immobiliare.csprojAssemblyReference.cache
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia_immobiliare.Form1.resources
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia_immobiliare.Properties.Resources.resources
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia immobiliare.csproj.GenerateResource.cache
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia immobiliare.csproj.CoreCompileInputs.cache
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia immobiliare.exe
+C:\Users\langu\source\repos\Agenzia immobiliare\Agenzia immobiliare\obj\Debug\Agenzia immobiliare.pdb
